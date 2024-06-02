@@ -1,0 +1,36 @@
+[
+  {
+    "id": "0",
+    "name": "Cashjdkahjksd",
+    "address": "123 Mallorca Street",
+    "categories": ["Restaurant", "Museum"],
+    "description": "A popular destination with a great view of the city.",
+    "image": "assets/images/testimage.jpg",
+    "openingHours": [
+      {"day": "Monday", "opening": "09:00", "closing": "18:00"},
+      {"day": "Tuesday", "opening": "09:00", "closing": "18:00"},
+      {"day": "Wednesday", "opening": "09:00", "closing": "18:00"},
+      {"day": "Thursday", "opening": "09:00", "closing": "18:00"},
+      {"day": "Friday", "opening": "09:00", "closing": "18:00"},
+      {"day": "Saturday", "opening": "10:00", "closing": "16:00"},
+      {"day": "Sunday", "opening": "10:00", "closing": "16:00"}
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Playa de Palma",
+    "address": "123 Mallorca Street",
+    "categories": ["Strand", "Park"],
+    "description": "A beautiful beach with white sand and clear water.",
+    "image": "assets/images/testimage.jpg",
+    "openingHours": [
+      {"day": "Monday", "opening": "08:00", "closing": "20:00"},
+      {"day": "Tuesday", "opening": "08:00", "closing": "20:00"},
+      {"day": "Wednesday", "opening": "08:00", "closing": "20:00"},
+      {"day": "Thursday", "opening": "08:00", "closing": "20:00"},
+      {"day": "Friday", "opening": "08:00", "closing": "20:00"},
+      {"day": "Saturday", "opening": "08:00", "closing": "20:00"},
+      {"day": "Sunday", "opening": "08:00", "closing": "20:00"}
+    ]
+  }
+]

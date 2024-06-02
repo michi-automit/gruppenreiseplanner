@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Restaurant",
+    "icon": "restaurant"
+  },
+  {
+    "id": 2,
+    "name": "Strand",
+    "icon": "beach_access"
+  },
+  {
+    "id": 3,
+    "name": "Museum",
+    "icon": "museum"
+  },
+  {
+    "id": 4,
+    "name": "Park",
+    "icon": "park"
+  },
+  {
+    "id": 5,
+    "name": "Einkaufen",
+    "icon": "shopping"
+  }
+]
